@@ -6,7 +6,7 @@ browsing habits
 and past purchases.
 It takes into account our special and confidential projections of how long a user will stay a customer. All users that have at least one conversion have their score updated daily. The specified values range from 1 to 5.
 
-customer_id: Represents the unique identification number of a customer.
+customer_id: Represents the unique identification number of a customer
 Name:	Represents the name of a customer
 age:	Represents the age of a customer
 security_no:	Represents a unique security number that is used to identify a person
