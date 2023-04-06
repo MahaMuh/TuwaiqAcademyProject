@@ -1,5 +1,6 @@
 # TuwaiqAcademyProject
-The dataset Churn rate is a marketing term that measures how many customers abandon a company over a given time frame. Each user has a prediction value assigned to them that represents how likely they are to churn at any given moment. This number is determined, among other things, by 
+## About Dataset
+Churn rate is a marketing term that measures how many customers abandon a company over a given time frame. Each user has a prediction value assigned to them that represents how likely they are to churn at any given moment. This number is determined, among other things, by 
 the user's demographic data
 browsing habits
 and past purchases.
